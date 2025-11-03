@@ -3,12 +3,14 @@ This is a brief summary of my Undergraduate Thesis. The paper is available to re
 
 ## Explaining This Repository:
 
-- `1D_ToyProblem` → Introductory GPR examples (learning fundamentals)
+- `1D_ToyProblem` → Introductory GPR examples (learning fundamentals).
 
 - `Final_Model_Code`  
-  - `Training_CrossValidated_32GPRs` → 32 GPR models trained using 10-fold cross-validation (on 90% of data)  
-  - `Ranking_All32_Models` → Ranks models based on cross-validation metrics and selects the top 8  
-  - `Testing_Best8Models` → Evaluates the 8 best models on the unseen 10% test set
+  - `Training_CrossValidated_32GPRs.ipynb` → 32 GPR models trained using 10-fold cross-validation (on 90% of data). 
+  - `Ranking_All32_Models.ipynb` → Ranks models based on cross-validation metrics and selects the top 8. 
+  - `Testing_Best8Models.ipynb` → Evaluates the 8 best models on the unseen 10% test set.
+
+- `Seán_White_Dissertation.pdf` → My final written report that I submitted as my BSc Thesis. 
 
 
 
